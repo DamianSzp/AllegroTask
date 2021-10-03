@@ -1,0 +1,9 @@
+pojo/Restrictions.class
+pojo/Parent.class
+pojo/ParametersItem.class
+runners/TestRunner.class
+pojo/Category.class
+steps/GetCategoriesSteps.class
+pojo/CategoriesItem.class
+pojo/Options.class
+pojo/Parameters.class
